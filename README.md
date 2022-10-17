@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Dominic 
+- 👀 I’m interested in React
+- 🌱 I’m currently learning Node & Angular 
+- 💞️ I’m looking to collaborate on Open Source 
+- 📫 How to reach me ...
