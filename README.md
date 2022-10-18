@@ -1,5 +1,9 @@
-- 👋 Hi, I’m Dominic 
-- 👀 I’m interested in React
-- 🌱 I’m currently learning Node & Angular 
-- 💞️ I’m looking to collaborate on Open Source 
-- 📫 How to reach me ...
+<h1>Hai 👋, I'm Dominic</h1>
+
+• 👨🏻‍💻 I’m currently working as a  <b>Software Engineer</b> in an IT company 🏢
+
+• 🌱 I’m currently learning <b>Python, C++, Web3 , Block Chain</b>
+
+• 🗯️ Ask me about <b>React Js, Node Js, Javascript, SQL</b> 
+
+• ⚡ Fun Fact I enjoy <b>Bug Bounty</b> 🕵🏻
