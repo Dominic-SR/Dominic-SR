@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/6M8G.gif" alt="Computer man" style="width:48px;height:48px;">
+![Alt Text](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif)
 
 <h1>Hai 👋, I'm Dominic</h1>
 
