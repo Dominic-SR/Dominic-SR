@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/6M8G.gif" alt="Computer man" style="width:100%;height:400px;">
+<img src="https://i.gifer.com/6M8G.gif" alt="Computer man" style="width:80px;height:80px;">
 
 <h1>Hai 👋, I'm Dominic</h1>
 
