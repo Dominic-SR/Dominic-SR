@@ -1,4 +1,4 @@
-<iframe src="https://gifer.com/embed/6M8G" width=480 height=307.200 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+https://i.gifer.com/6M8G.gif
 
 <h1>Hai 👋, I'm Dominic</h1>
 
