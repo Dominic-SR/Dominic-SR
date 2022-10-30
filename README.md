@@ -2,6 +2,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/dominicseduraja">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 <h1>Hai 👋, I'm Dominic</h1>
 
 • 👨🏻‍💻 I’m currently working as a  <b>Software Engineer</b> in an IT company 🏢
