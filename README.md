@@ -6,6 +6,10 @@
   <a href="https://www.linkedin.com/in/dominicseduraja">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+
+<a href="mailto:dominicseduraja3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
+  </a>
 </div>
 
 <h1>Hai 👋, I'm Dominic</h1>
