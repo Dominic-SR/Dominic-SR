@@ -12,7 +12,7 @@
   </a>
 </div>
 
-<h1>Hai ![Alt Text](https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif) 👋, I'm Dominic</h1>
+<h1>Hai </h1> ![Alt Text](https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif) <h1> 👋, I'm Dominic</h1>
 
 
 • 👨🏻‍💻 I’m currently working as a  <b>Software Engineer</b> in an IT company 🏢
