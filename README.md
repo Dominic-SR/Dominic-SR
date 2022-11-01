@@ -14,7 +14,7 @@
 </div>
 
 
-<h1>Haiii I'm Dominic</h1> 
+<h1>Hai I'm Dominic</h1> 
 <!-- ![Alt Text](https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif)  -->
 
 
