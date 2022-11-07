@@ -21,7 +21,7 @@
 
 • 👨🏻‍💻 I’m currently working as a  <b>Software Engineer</b> in an IT company 🏢
 
-• 🌱 I’m currently learning <b>Python, C++, Web3 , Block Chain</b>
+• 🌱 I’m currently learning <b>Python, Web3 , Block Chain</b>
 
 • 🗯️ Ask me about <b>React Js, Node Js, Javascript, SQL</b> 
 
