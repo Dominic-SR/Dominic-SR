@@ -23,7 +23,7 @@
 
 • 🌱 I’m currently learning <b>Python, Web3 , Block Chain</b>
 
-• 🗯️ Ask me about <b>React Js, Node Js, Javascript, SQL</b> 
+• 🗯️ Ask me about <b>React Js, Node Js, Angular Javascript, SQL</b> 
 
 • ⚡ Fun Fact I enjoy <b>Bug Bounty</b> 🕵🏻
 
