@@ -58,4 +58,3 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dominic-SR&layout=compact)](https://github.com/Dominic-SR/github-readme-stats)
