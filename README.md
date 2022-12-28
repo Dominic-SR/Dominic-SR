@@ -25,7 +25,7 @@
 
 • 🗯️ Ask me about <b>React Js, Node Js, Angular Javascript, SQL</b> 
 
-<!-- • ⚡ Fun Fact I enjoy <b>Bug Bounty</b> 🕵🏻 -->
+• ⚡ Fun Fact I enjoy <b>Bug Bounty</b> 🕵🏻
 
 ---
 
