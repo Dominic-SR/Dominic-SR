@@ -26,7 +26,6 @@
 • 🗯️ Ask me about <b>React Js, Node Js, Angular Javascript, SQL</b> 
 
 • ⚡ Fun Fact I enjoy the <b>Bug Bounty</b> 🕵🏻
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
