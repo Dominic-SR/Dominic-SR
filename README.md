@@ -52,4 +52,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
 </div>
 <hr>
-
