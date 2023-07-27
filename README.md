@@ -21,9 +21,9 @@
 
 • 👨🏻‍💻 I’m currently working as a  <b>Software Engineer</b> in an IT company 🏢
 
-• 🌱 I’m currently learning <b>React, Angular, Node JS, Python</b>
+• 🌱 I’m currently learning <b>React, Angular, Node JS and Python</b>
 
-• 🗯️ Ask me about <b>React Js, Node Js, Angular Javascript, SQL</b> 
+• 🗯️ Ask me about <b>React, Node Js, Angular Javascript, SQL</b> 
 
 <!--• ⚡ Fun Fact I enjoy the <b>Bug Bounty</b> 🕵🏻-->
 
