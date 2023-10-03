@@ -25,6 +25,8 @@
 
 • ⚡ Fun Fact I enjoy the <b>Bug Bounty</b> 🕵🏻
 
+<!-- ![Alt Text](https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif)  -->
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
