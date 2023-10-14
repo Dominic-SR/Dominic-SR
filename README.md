@@ -1,6 +1,5 @@
 ![Alt Text](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif)
 
-
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 <div id="badges">
@@ -12,7 +11,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
   </a>
 </div>
-
 
 <h1>Hai I'm Dominic</h1> 
 <!-- ![Alt Text](https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif)  -->
@@ -51,5 +49,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="PS" alt="ps" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
 </div>
-
 <hr>
