@@ -21,7 +21,7 @@
 
 • 🗯️ Ask me about <b>React, Node Js, Angular Javascript, SQL</b> 
 
-• ⚡ Fun Fact I enjoy the <b>Bug Bounty</b> 🕵🏻
+<!-- • ⚡ Fun Fact I enjoy the <b>Bug Bounty</b> 🕵🏻 -->
 
 <!-- ![Alt Text](https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif)  -->
 
