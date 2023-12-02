@@ -12,7 +12,7 @@
   </a>
 </div>
 
-<h1>Hai I'm Dominic</h1> 
+<h1> ![Alt Text](https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif) Hai I'm Dominic</h1> 
 <!-- ![Alt Text](https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif)  -->
 
 • 👨🏻‍💻 I’m currently working as a  <b>Software Engineer</b> in an IT company 🏢
@@ -22,8 +22,6 @@
 • 🗯️ Ask me about <b>React, Node Js, Angular Javascript, SQL</b> 
 
 <!-- • ⚡ Fun Fact I enjoy the <b>Bug Bounty</b> 🕵🏻 -->
-
-![Alt Text](https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif) 
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
