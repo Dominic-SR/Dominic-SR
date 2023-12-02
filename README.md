@@ -23,7 +23,7 @@
 
 <!-- • ⚡ Fun Fact I enjoy the <b>Bug Bounty</b> 🕵🏻 -->
 
-<!-- ![Alt Text](https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif)  -->
+![Alt Text](https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif) 
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
