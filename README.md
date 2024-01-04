@@ -22,7 +22,7 @@
 • 🗯️ Ask me about <b>React, Node Js Javascript, SQL</b> 
 
 • ⚡ Fun Fact I enjoy the <b>Bug Bounty</b> 
-
+<hr/>
 Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -47,6 +47,4 @@ Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="PS" alt="ps" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
 </div>
-<hr/>
-<hr/>
 <hr/>
