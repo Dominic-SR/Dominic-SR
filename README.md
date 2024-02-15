@@ -17,7 +17,7 @@
 
 • 👨🏻‍💻 I’m currently working as a  <b>Software Engineer</b> in an IT company 
 
-• 🌱 I’m currently learning <b>React, Angular, Node JS, Next Js and Python</b>
+• 🌱 I’m currently learning <b>React, Angular, Node JS, Next Js</b>
 
 • 🗯️ Ask me about <b>React, Node Js Javascript, SQL</b> 
 
