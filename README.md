@@ -15,7 +15,7 @@
 <h1> Hai I'm Dominic</h1> 
 <!-- ![Alt Text](https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif)  -->
 
-• 👨🏻‍💻 I’m currently working as a  <b>Software Engineer</b> in an IT company 
+<!--• 👨🏻‍💻 I’m currently working as a  <b>Software Engineer</b> in an IT company -->
 
 • 🌱 I’m currently learning <b>React, Angular, Node JS, Next Js</b>
 
