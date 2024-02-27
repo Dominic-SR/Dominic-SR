@@ -21,7 +21,7 @@
 
 • 🗯️ Ask me about <b>React, Node Js Javascript, SQL</b> 
 
-• ⚡ Fun Fact I enjoy the <b>Bug Bounty</b> 
+<!--• ⚡ Fun Fact I enjoy the <b>Bug Bounty</b>--> 
 <hr/>
 Languages and Tools :
 <div>
