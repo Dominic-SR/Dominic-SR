@@ -23,7 +23,7 @@
 
 <!--• ⚡ Fun Fact I enjoy the <b>Bug Bounty</b>--> 
 <hr/>
-Programming Languages and Tools :
+<p>Programming Languages and Tools :</p>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="NodeJs" width="40" height="40"/>&nbsp;
