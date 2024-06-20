@@ -17,9 +17,9 @@
 
 <!--• 👨🏻‍💻 I’m currently working as a  <b>Software Engineer</b> in an IT company -->
 
-• 🌱 I’m currently learning <b>React, Angular, Node JS, Next Js</b>
+• 🌱 I’m currently learning <b>Next Js, Angular, React Native</b>
 
-• 🗯️ Ask me about <b>React, Node Js Javascript, SQL</b> 
+• 🗯️ Ask me about <b>React, Node Js, Html, CSS, avascript and SQL</b> 
 
 <!--• ⚡ Fun Fact I enjoy the <b>Bug Bounty</b>--> 
 <hr/>
