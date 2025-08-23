@@ -22,7 +22,6 @@
 • 🗯️ Ask me about <b>React, Node Js, Html, CSS, avascript and SQL</b> 
 
 <!--• ⚡ Fun Fact I enjoy the <b>Bug Bounty</b>--> 
-<hr/>
 <p>Programming Languages and Tools :</p>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
